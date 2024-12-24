@@ -1,5 +1,4 @@
 #Include Jxon.ahk ; JSON parser library: https://github.com/cocobelgica/AutoHotkey-JSON
-;ну нехуй тебе в коде ковыряться, старина, давай съебался отсюда
 ; === Конфиг ===
 IniRead, telegramToken, config.ini, Telegram, telegramToken
 IniRead, chatID, config.ini, Telegram, chatID
